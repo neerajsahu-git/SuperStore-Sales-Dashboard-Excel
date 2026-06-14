@@ -19,7 +19,7 @@ This dashboard provides a comprehensive analysis of sales performance across a 4
 2.  **Product Strategy:** Since Office Supplies drives high volume, bundle these items with slower-moving categories to improve average order value.
 
 ## Dashboard Preview
-![Dashboard](SuperStore-Sales-Dashboard_png.jpg)
+![Dashboard](Dashboard-Super-Store-Sales.jpg)
 
 ## 📂 Project Files
 * **[View Raw Dataset](https://github.com/neerajsahu-git/SuperStore-Sales-Dashboard-Excel/blob/main/Superstore%20Data.xlsx)** 

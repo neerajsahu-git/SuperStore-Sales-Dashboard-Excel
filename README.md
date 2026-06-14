@@ -22,5 +22,5 @@ This dashboard provides a comprehensive analysis of sales performance across a 4
 ![Dashboard](Dashboard-Super-Store-Sales.jpg)
 
 ## 📂 Project Files
-* **[Download Full Dashboard (.xlsx)]()**
+* **[Download Full Dashboard (.xlsx)](https://github.com/neerajsahu-git/SuperStore-Sales-Dashboard-Excel/blob/main/Dashboard%20Super%20Store%20Sales.xlsx)**
 * **[View Raw Dataset](https://github.com/neerajsahu-git/SuperStore-Sales-Dashboard-Excel/blob/main/Superstore%20Data.xlsx)** 

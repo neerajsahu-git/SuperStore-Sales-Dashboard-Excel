@@ -18,6 +18,9 @@ This dashboard provides a comprehensive analysis of sales performance across a 4
 1.  **Q4 Preparedness:** Inventory should be scaled up in anticipation of the November peak.
 2.  **Product Strategy:** Since Office Supplies drives high volume, bundle these items with slower-moving categories to improve average order value.
 
+## Dashboard Preview
+![Dashboard](SuperStore-Sales-Dashboard_png.jpg)
+
 ## 📂 Project Files
 * [Download Dashboard (.xlsx)]()
 * [View Raw Dataset](link-to-data)

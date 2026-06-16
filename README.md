@@ -8,6 +8,8 @@ This dashboard provides a comprehensive analysis of sales performance across a 4
 * **Data Analysis:** Pivot Tables, Data Cleaning, Trend Forecasting
 * **Visualization:** Interactive Dashboards, Slicers, Pivot Charts
 
+
+
 ## 📈 Key Insights
 * **Revenue Growth:** Achieved 54.3% cumulative growth, with a notable recovery and acceleration in 2016 (+30.67%) and 2017 (+18.66%).
 * **Regional Dominance:** The West Region consistently leads in transaction volume, providing a blueprint for regional strategy.

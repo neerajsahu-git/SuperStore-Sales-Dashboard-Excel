@@ -29,14 +29,3 @@ I am continuously improving my analytics and dashboarding skills. If you have an
 ## 📂 Project Files
 * **[Download Full Dashboard (.xlsx)](https://github.com/neerajsahu-git/SuperStore-Sales-Dashboard-Excel/blob/main/Dashboard%20Super%20Store%20Sales.xlsx)**
 * **[View Raw Dataset](https://github.com/neerajsahu-git/SuperStore-Sales-Dashboard-Excel/blob/main/Superstore%20Data.xlsx)**
-
-
-
-
-
-
-  
-
-
-
-
